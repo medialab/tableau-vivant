@@ -1,2 +1,2 @@
-# tableau-vivant
-Appendix to the article "The tableau vivant meme in the era of confinement"
+# Le mème du tableau vivant
+Annexe à l'article *Le mème du tableau vivant à l’ère du confinement. Viralité et vitalité*
